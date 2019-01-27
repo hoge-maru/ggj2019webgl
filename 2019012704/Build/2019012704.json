@@ -1,0 +1,14 @@
+{
+"companyName": "GGJ2019",
+"productName": "ContactList",
+"dataUrl": "2019012704.data.unityweb",
+"wasmCodeUrl": "2019012704.wasm.code.unityweb",
+"wasmFrameworkUrl": "2019012704.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "2019012704.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
